@@ -6,7 +6,13 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Halo bang</h1>
-    <a href="">klik disini</a>
+    <?php
+        echo "hello word" ;
+    ?>
+
+    <?php
+        echo "Ini adalah <br/>Sebuah syntax<br/>PHP pertama saya😁 ";
+    
+    ?>
 </body>
 </html>
