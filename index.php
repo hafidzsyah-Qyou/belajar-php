@@ -22,7 +22,7 @@
         $luas = $panjang*$Lebar;
 
         echo "luas persegi panjang adalah $luas <br/>"; //double quote/petik
-        echo 'luas persegi panjang adalah ' . $luas . ' ' <br/>;//single quote/petik
+        echo 'luas persegi panjang adalah ' . $luas . '  <br/>';//single quote/petik
     ?>
 </body>
 </html>
